@@ -18,3 +18,4 @@ We had to make the website as accessible as possible and also clean up the code.
 ![website in use](gifs\site.gif)
 
 ## Link to the Deployed Site
+https://rhysrushton.github.io/homework1refactor-/index.html
